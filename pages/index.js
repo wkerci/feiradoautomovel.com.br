@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Ola seja bem vido" />
         <p className="description">
-          se quiser comprar esse domínio me made em wkerci@gmail.com<code>pages/index.js</code>
+          se quiser comprar esse domínio me made em wkerci@gmail.com
         </p>
       </main>
 

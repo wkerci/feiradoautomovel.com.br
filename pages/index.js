@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Ola seja bem vido" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          se quiser comprar esse domínio me made em wkerci@gmail.com<code>pages/index.js</code>
         </p>
       </main>
 

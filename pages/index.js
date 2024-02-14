@@ -16,7 +16,7 @@
         Se você tiver alguma dúvida, sugestão ou precisar de ajuda com algo, não hesite em me contatar. 
       </p>
       <p>
-        Meu endereço de e-mail é: <a href="mailto:wcast@gmail.com">wcast@gmail.com</a>
+        Meu endereço de e-mail é: <a href="mailto:wkerci@gmail.com">wkerci@gmail.com</a>
       </p>
     </section>
     <section>
